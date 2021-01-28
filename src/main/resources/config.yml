@@ -1,0 +1,16 @@
+1: "¡Es hora de dormir porque los Phantoms van a aparecer pronto! (%AWAKE%/3)"
+2: "¡CORRE, DUERME! Los Phantom están de camino. (%AWAKE%/3)"
+3: "¡NO! Ese Phantom viene directito a convertirte en papilla para sus crías, ¡HUYE! (%AWAKE%/3)"
+4:
+  - "¡Los Phantom están aquí, ya no puedes hacer nada más que defender y dormir después! (%AWAKE%/3)"
+  - "Vale, que no cunda el pánico, pero esta medición emite resultados preocupantes. Yo dormiría... (%AWAKE%/3)"
+msgprefix: "&r[&6EdoPhantoms&r] &e"
+no-permission: "&r[&6EdoPhantoms&r] &eNo tienes permiso para ejecutar ese comando."
+player-reset: "&r[&6EdoPhantoms&r] &eSe ha reiniciado el contador de %USER%."
+global-reset: "&r[&6EdoPhantoms&r] &eSe ha reiniciado el contador de todos los usuarios conectados."
+creative-reset: "&r[&6EdoPhantoms&r] &eTe encuentras en modo creativo, por lo que tu contador ha sido reiniciado."
+permission-reset: "&r[&6EdoPhantoms&r] &eSe te ha reiniciado el contador de días sin dormir debido a tu rango."
+reset: "&r[&6EdoPhantoms&r] &eLos phantoms se han ido."
+world: world
+ResetTime: 0
+BedDelay: 20

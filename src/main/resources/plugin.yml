@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+authors: [ScottHarwood, Kikisito]
+main: com.github.kikisito.phantombgone.Main
+commands:
+  resetsleep:
+    description: Reset your sleeping statistics.
+api-version: 1.13
